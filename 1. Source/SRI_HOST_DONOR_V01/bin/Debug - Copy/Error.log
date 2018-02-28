@@ -1,0 +1,54 @@
+[02/01/2016 13:41:46][       SendEmailNotification()] The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[02/01/2016 13:41:46][                 ExportReports] Please check the email Address.Fail to send email : sahayar@abeo-electra.com,srinivab@abeo-electra.com,nicolast@abeo-electra.com:: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[02/01/2016 14:06:12][       SendEmailNotification()] The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[02/01/2016 14:06:12][                 ExportReports] Please check the email Address.Fail to send email : sahayar@abeo-electra.com,srinivab@abeo-electra.com,nicolast@abeo-electra.com:: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[02/01/2016 14:31:51][             ExportToPDF_CSN()] Error in File C:\Users\sri\AppData\Local\Temp\17\MED_Statement of Account {45FBA802-C9AC-4F1A-81BF-EBFEB33AC061}.rpt:
+Operation not yet implemented.
+[02/01/2016 14:31:51][                 ExportReports] Error in File C:\Users\sri\AppData\Local\Temp\17\MED_Statement of Account {45FBA802-C9AC-4F1A-81BF-EBFEB33AC061}.rpt:
+Operation not yet implemented.
+[08/10/2016 10:53:01][       SendEmailNotification()] The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[08/10/2016 10:53:01][                 ExportReports] Please check the email Address.Fail to send email : sahayar@abeo-electra.com:: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[09-01-2017 08:56:08][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:08][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:08][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:08][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:08][             Get_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:42][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:42][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09-01-2017 08:56:42][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:12][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:12][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:12][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:46][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:46][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 21:48:46][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:33:57][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:33:57][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:33:57][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:34:31][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:34:31][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:34:31][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:36:38][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:36:38][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:36:38][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:39:56][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:39:56][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/05/2017 23:39:56][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 12:03:05][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 12:03:05][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 12:03:05][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:44:53][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:44:53][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:44:53][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:46:14][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:46:14][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:46:15][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:49:01][                ExecuteQuery()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:49:01][            Load_CompanyList()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/06/2017 13:49:01][SCompany_SelectedIndexChanged()] ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[09/11/2017 23:16:53][      ExecExecuteSQLQuery_DT()] Invalid object name 'dbo.purple_employee_donation_receip'.
+[09/11/2017 23:48:39][       Load_DonorReceiptList()] Uncommitted new row cannot be deleted.
+[09/11/2017 23:49:36][       Load_DonorReceiptList()] Uncommitted new row cannot be deleted.
+[09/12/2017 00:07:28][       Load_DonorReceiptList()] Uncommitted new row cannot be deleted.
+[09/12/2017 19:21:29][      ConnectToTargetCompany()] Connection to Database (PWCL) 
+ 	 No database server type specified

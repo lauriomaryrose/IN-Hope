@@ -1,0 +1,83 @@
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.vbprojResolveAssemblyReference.cache
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.frmTaxInvoice.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.frmPaymentadvice.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.frmSOA.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+E:\Application\Shrist\Source\Windows App\AE_MED_EADVICE\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbprojResolveAssemblyReference.cache
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmDonations.resources
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.pdb
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.xml
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.exe
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.xml
+E:\Application\Shrist\Source\Windows App\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.pdb
+E:\PWC\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\Interop.SAPbobsCOM.dll
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.exe
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.xml
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.pdb
+E:\PWC\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe
+E:\PWC\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.pdb
+E:\PWC\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.xml
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbprojResolveAssemblyReference.cache
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmDonations.resources
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+E:\PWC\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.exe
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.xml
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.pdb
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmDonations.resources
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.pdb
+F:\Srishti Techlabs\Hope\1. Source\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.xml
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\Interop.SAPbobsCOM.dll
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.exe
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.xml
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.pdb
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.pdb
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.xml
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmDonations.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe.config
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\Interop.SAPbobsCOM.dll
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.ResolveComReference.cache
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.exe
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.xml
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.pdb
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.exe
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.pdb
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\bin\Debug\SRI_HOST_DONOR_V01.xml
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.CFL.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmMenu.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.frmDonations.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.Resources.resources
+E:\SRI\Srishti\Application\SRI_HOST_DONOR_V01\obj\Debug\SRI_HOST_DONOR_V01.vbproj.GenerateResource.Cache
